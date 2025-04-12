@@ -1,0 +1,18 @@
+We are seeking a highly motivated Backend Developer to join our dynamic software development team. The ideal candidate will have experience in building scalable server-side applications, APIs, and services.
+
+**Responsibilities:**
+- Design, build, and maintain efficient, reusable, and reliable Java code
+- Develop RESTful APIs and integrate with third-party services
+- Collaborate with frontend developers, product managers, and QA engineers
+- Optimize application performance and scalability
+
+**Required Skills:**
+- Proficiency in Java and Spring Boot
+- Experience with relational databases (e.g., MySQL, PostgreSQL)
+- Familiarity with version control tools like Git
+- Good understanding of REST architecture
+- Working knowledge of AWS (EC2, S3, DynamoDB)
+
+**Preferred:**
+- Experience with Docker and CI/CD pipelines
+- Familiarity with Agile methodologies

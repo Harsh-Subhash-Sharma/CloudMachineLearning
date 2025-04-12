@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q1",
+    "question": "How do you handle unexpected system outages?",
+    "answer": "I prioritize quick identification and resolution of the issue, communicate with stakeholders, and implement preventive measures to avoid future occurrences.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Incident Management", "Communication"]
+  },
+  {
+    "id": "q2",
+    "question": "How do you optimize power consumption in embedded systems?",
+    "answer": "I use techniques such as dynamic voltage scaling, efficient coding practices, and hardware optimization to reduce power consumption.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Power Optimization", "Hardware Design"]
+  },
+  {
+    "id": "q3",
+    "question": "How do you ensure data security in cloud environments?",
+    "answer": "I implement encryption, access controls, regular audits, and compliance with security standards to ensure data security.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Data Security", "Compliance"]
+  },
+  {
+    "id": "q4",
+    "question": "How do you manage state in a single-page application?",
+    "answer": "I use state management libraries like Redux or Vuex, and ensure proper synchronization between client and server states.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["State Management", "Client-Server Communication"]
+  },
+  {
+    "id": "q5",
+    "question": "How do you handle deployment failures?",
+    "answer": "I roll back to the previous stable version, analyze the failure, and implement fixes to prevent recurrence.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Deployment", "Problem Solving"]
+  },
+  {
+    "id": "q6",
+    "question": "How do you deal with imbalanced datasets?",
+    "answer": "I use techniques like resampling, synthetic data generation, and algorithm adjustments to handle imbalanced datasets.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Data Handling", "Algorithm Design"]
+  },
+  {
+    "id": "q7",
+    "question": "How do you ensure scalability in your software design?",
+    "answer": "I design modular architectures, use efficient algorithms, and implement load balancing to ensure scalability.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Scalability", "Architecture Design"]
+  },
+  {
+    "id": "q8",
+    "question": "How do you monitor system performance?",
+    "answer": "I use monitoring tools, set up alerts, and regularly review performance metrics to ensure optimal system performance.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Monitoring", "Performance Analysis"]
+  },
+  {
+    "id": "q9",
+    "question": "How do you debug hardware issues?",
+    "answer": "I use diagnostic tools, perform systematic testing, and collaborate with hardware designers to identify and resolve issues.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Debugging", "Hardware Collaboration"]
+  },
+  {
+    "id": "q10",
+    "question": "How do you manage cloud costs?",
+    "answer": "I use cost management tools, optimize resource usage, and regularly review billing to manage cloud costs effectively.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Cost Management", "Resource Optimization"]
+  },
+  {
+    "id": "q11",
+    "question": "How do you handle cross-browser compatibility issues?",
+    "answer": "I use testing tools, follow web standards, and implement polyfills to ensure cross-browser compatibility.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Cross-Browser Compatibility", "Testing"]
+  },
+  {
+    "id": "q12",
+    "question": "How do you ensure continuous integration and delivery?",
+    "answer": "I set up CI/CD pipelines, automate testing, and ensure seamless integration of code changes.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD", "Automation"]
+  },
+  {
+    "id": "q13",
+    "question": "How do you evaluate model performance?",
+    "answer": "I use metrics like accuracy, precision, recall, and F1-score, and perform cross-validation to evaluate model performance.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Evaluation", "Metrics"]
+  },
+  {
+    "id": "q14",
+    "question": "How do you handle legacy code?",
+    "answer": "I refactor and document legacy code, ensure compatibility with new systems, and gradually replace outdated components.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Legacy Code", "Refactoring"]
+  },
+  {
+    "id": "q15",
+    "question": "How do you ensure high availability of services?",
+    "answer": "I implement redundancy, failover mechanisms, and regular testing to ensure high availability of services.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["High Availability", "Redundancy"]
+  },
+  {
+    "id": "q16",
+    "question": "How do you handle real-time constraints in embedded systems?",
+    "answer": "I use real-time operating systems, prioritize tasks, and optimize code to meet real-time constraints.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Real-Time Systems", "Task Management"]
+  },
+  {
+    "id": "q17",
+    "question": "How do you migrate applications to the cloud?",
+    "answer": "I plan the migration strategy, ensure data integrity, and use cloud-native tools to facilitate smooth migration.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Migration", "Cloud-Native Tools"]
+  },
+  {
+    "id": "q18",
+    "question": "How do you handle API versioning?",
+    "answer": "I use versioning strategies, maintain backward compatibility, and document changes to handle API versioning.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["API Versioning", "Documentation"]
+  },
+  {
+    "id": "q19",
+    "question": "How do you manage infrastructure as code?",
+    "answer": "I use tools like Terraform or Ansible, maintain version control, and ensure reproducibility to manage infrastructure as code.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Infrastructure as Code", "Version Control"]
+  },
+  {
+    "id": "q20",
+    "question": "How do you handle feature selection?",
+    "answer": "I use techniques like correlation analysis, feature importance scores, and dimensionality reduction to handle feature selection.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Feature Selection", "Dimensionality Reduction"]
+  },
+  {
+    "id": "q21",
+    "question": "How do you handle a situation where a critical service is down and you don't have immediate access to the necessary tools?",
+    "answer": "I would prioritize communication with the team, use any available resources to diagnose the issue, and work on a temporary solution until full access is restored.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Crisis Management", "Resourcefulness"]
+  },
+  {
+    "id": "q22",
+    "question": "How do you ensure the reliability of firmware updates in embedded systems?",
+    "answer": "I thoroughly test updates in a controlled environment, implement rollback mechanisms, and ensure robust error handling to maintain reliability.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Firmware Testing", "Error Handling"]
+  },
+  {
+    "id": "q23",
+    "question": "How do you handle data migration to a new cloud provider?",
+    "answer": "I plan the migration carefully, ensure data integrity, and use automated tools to facilitate a smooth transition with minimal downtime.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Data Migration", "Automation"]
+  },
+  {
+    "id": "q24",
+    "question": "How do you manage a project with tight deadlines and limited resources?",
+    "answer": "I prioritize tasks, delegate effectively, and maintain clear communication with stakeholders to manage expectations and deliver on time.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Project Management", "Time Management"]
+  },
+  {
+    "id": "q25",
+    "question": "How do you ensure the security of a CI/CD pipeline?",
+    "answer": "I implement security best practices, use secure credentials, and regularly audit the pipeline to ensure its security.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Security", "Auditing"]
+  },
+  {
+    "id": "q26",
+    "question": "How do you handle overfitting in a machine learning model?",
+    "answer": "I use techniques like cross-validation, regularization, and pruning to handle overfitting and improve model generalization.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Generalization", "Regularization"]
+  },
+  {
+    "id": "q27",
+    "question": "How do you ensure code quality in a team environment?",
+    "answer": "Code quality can be ensured by following coding standards, conducting code reviews, writing unit tests, and using static analysis tools. Collaboration and clear communication within the team are also crucial.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Code Quality", "Team Collaboration"]
+  },
+  {
+    "id": "q28",
+    "question": "How do you handle a situation where a critical service is experiencing intermittent issues?",
+    "answer": "I would set up detailed monitoring to capture the issue, analyze logs, and work on a fix while keeping stakeholders informed.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Monitoring", "Problem Solving"]
+  },
+  {
+    "id": "q29",
+    "question": "How do you optimize the boot time of an embedded system?",
+    "answer": "I streamline the boot process, minimize initialization routines, and use efficient loading techniques to optimize boot time.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Boot Optimization", "Efficiency"]
+  },
+  {
+    "id": "q30",
+    "question": "How do you ensure compliance with data privacy regulations in cloud environments?",
+    "answer": "I implement data encryption, access controls, and regular audits to ensure compliance with data privacy regulations.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Data Privacy", "Compliance"]
+  },
+  {
+    "id": "q31",
+    "question": "How do you handle a situation where a new feature breaks existing functionality?",
+    "answer": "I would roll back the feature, conduct a thorough analysis to identify the issue, and implement a fix before redeploying.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Feature Management", "Problem Solving"]
+  },
+  {
+    "id": "q32",
+    "question": "How do you ensure the scalability of a CI/CD pipeline?",
+    "answer": "I design the pipeline to handle increased load, use scalable infrastructure, and regularly review performance metrics.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Scalability", "Performance Metrics"]
+  },
+  {
+    "id": "q33",
+    "question": "How do you handle missing data in a dataset?",
+    "answer": "I use techniques like imputation, deletion, or using algorithms that handle missing data to address the issue.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Data Imputation", "Algorithm Selection"]
+  },
+  {
+    "id": "q34",
+    "question": "How do you ensure the maintainability of a large codebase?",
+    "answer": "I use modular design, thorough documentation, and regular refactoring to ensure the maintainability of a large codebase.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Maintainability", "Modular Design"]
+  },
+  {
+    "id": "q35",
+    "question": "How do you handle a situation where a critical service is running out of resources?",
+    "answer": "I would analyze resource usage, optimize the service, and scale up resources if necessary to handle the situation.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Resource Management", "Optimization"]
+  },
+  {
+    "id": "q36",
+    "question": "How do you ensure the reliability of communication protocols in embedded systems?",
+    "answer": "I use robust error handling, thorough testing, and redundancy to ensure the reliability of communication protocols.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Communication Protocols", "Error Handling"]
+  },
+  {
+    "id": "q37",
+    "question": "How do you handle a situation where a cloud service is experiencing latency issues?",
+    "answer": "I would analyze the root cause, optimize configurations, and use caching or load balancing to reduce latency.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Latency Optimization", "Load Balancing"]
+  },
+  {
+    "id": "q38",
+    "question": "How do you ensure the performance of a web application under high load?",
+    "answer": "I use load testing, optimize code and database queries, and implement caching to ensure performance under high load.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Load Testing", "Performance Optimization"]
+  },
+  {
+    "id": "q39",
+    "question": "How do you handle a situation where a deployment pipeline is frequently failing?",
+    "answer": "I would analyze the failures, identify common issues, and implement fixes to stabilize the deployment pipeline.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Pipeline Stability", "Problem Solving"]
+  },
+  {
+    "id": "q40",
+    "question": "How do you handle a situation where a machine learning model is not performing as expected?",
+    "answer": "I would analyze the data, tune hyperparameters, and experiment with different algorithms to improve model performance.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Tuning", "Algorithm Selection"]
+  },
+  {
+    "id": "q41",
+    "question": "How do you handle a situation where a critical service is experiencing a memory leak?",
+    "answer": "I would use monitoring tools to identify the source of the leak, optimize the code, and implement memory management techniques to resolve the issue.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Memory Management", "Optimization"]
+  },
+  {
+    "id": "q42",
+    "question": "How do you ensure the security of embedded systems?",
+    "answer": "I implement secure coding practices, use encryption, and regularly update firmware to ensure the security of embedded systems.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Security", "Encryption"]
+  },
+  {
+    "id": "q43",
+    "question": "How do you handle a situation where a cloud service is experiencing high costs?",
+    "answer": "I would analyze resource usage, optimize configurations, and use cost management tools to reduce costs.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Cost Management", "Optimization"]
+  },
+  {
+    "id": "q44",
+    "question": "How do you ensure the responsiveness of a web application?",
+    "answer": "I use performance testing, optimize code and assets, and implement caching to ensure responsiveness.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Performance Testing", "Optimization"]
+  },
+  {
+    "id": "q45",
+    "question": "How do you handle a situation where a CI/CD pipeline is not integrating code changes properly?",
+    "answer": "I would analyze the pipeline, identify integration issues, and implement fixes to ensure proper integration.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Integration", "Problem Solving"]
+  },
+  {
+    "id": "q46",
+    "question": "How do you handle a situation where a machine learning model is overfitting?",
+    "answer": "I use techniques like regularization, cross-validation, and pruning to handle overfitting and improve model generalization.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Generalization", "Regularization"]
+  },
+  {
+    "id": "q47",
+    "question": "How do you ensure the maintainability of a software project?",
+    "answer": "I use modular design, thorough documentation, and regular refactoring to ensure the maintainability of a software project.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Maintainability", "Modular Design"]
+  },
+  {
+    "id": "q48",
+    "question": "How do you handle a situation where a critical service is experiencing high latency?",
+    "answer": "I would analyze the root cause, optimize configurations, and use caching or load balancing to reduce latency.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Latency Optimization", "Load Balancing"]
+  },
+  {
+    "id": "q49",
+    "question": "How do you ensure the reliability of communication protocols in embedded systems?",
+    "answer": "I use robust error handling, thorough testing, and redundancy to ensure the reliability of communication protocols.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Communication Protocols", "Error Handling"]
+  },
+  {
+    "id": "q50",
+    "question": "How do you handle a situation where a cloud service is experiencing downtime?",
+    "answer": "I would communicate with the provider, use redundancy and failover mechanisms, and implement a temporary solution to minimize impact.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Downtime Management", "Redundancy"]
+  },
+  {
+    "id": "q51",
+    "question": "How do you ensure the performance of a web application under high load?",
+    "answer": "I use load testing, optimize code and database queries, and implement caching to ensure performance under high load.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Load Testing", "Performance Optimization"]
+  },
+  {
+    "id": "q52",
+    "question": "How do you handle a situation where a deployment pipeline is frequently failing?",
+    "answer": "I would analyze the failures, identify common issues, and implement fixes to stabilize the deployment pipeline.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Pipeline Stability", "Problem Solving"]
+  },
+  {
+    "id": "q53",
+    "question": "How do you handle a situation where a machine learning model is not performing as expected?",
+    "answer": "I would analyze the data, tune hyperparameters, and experiment with different algorithms to improve model performance.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Tuning", "Algorithm Selection"]
+  },
+  {
+    "id": "q54",
+    "question": "How do you ensure the maintainability of a large codebase?",
+    "answer": "I use modular design, thorough documentation, and regular refactoring to ensure the maintainability of a large codebase.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Maintainability", "Modular Design"]
+  },
+  {
+    "id": "q55",
+    "question": "How do you handle a situation where a critical service is running out of resources?",
+    "answer": "I would analyze resource usage, optimize the service, and scale up resources if necessary to handle the situation.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Resource Management", "Optimization"]
+  },
+  {
+    "id": "q56",
+    "question": "How do you ensure the reliability of communication protocols in embedded systems?",
+    "answer": "I use robust error handling, thorough testing, and redundancy to ensure the reliability of communication protocols.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Communication Protocols", "Error Handling"]
+  },
+  {
+    "id": "q57",
+    "question": "How do you handle a situation where a cloud service is experiencing latency issues?",
+    "answer": "I would analyze the root cause, optimize configurations, and use caching or load balancing to reduce latency.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Latency Optimization", "Load Balancing"]
+  },
+  {
+    "id": "q58",
+    "question": "How do you ensure the performance of a web application under high load?",
+    "answer": "I use load testing, optimize code and database queries, and implement caching to ensure performance under high load.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Load Testing", "Performance Optimization"]
+  },
+  {
+    "id": "q59",
+    "question": "How do you handle a situation where a deployment pipeline is frequently failing?",
+    "answer": "I would analyze the failures, identify common issues, and implement fixes to stabilize the deployment pipeline.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Pipeline Stability", "Problem Solving"]
+  },
+  {
+    "id": "q60",
+    "question": "How do you handle a situation where a machine learning model is not performing as expected?",
+    "answer": "I would analyze the data, tune hyperparameters, and experiment with different algorithms to improve model performance.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Tuning", "Algorithm Selection"]
+  },
+  {
+    "id": "q61",
+    "question": "How do you handle a situation where a critical service is experiencing a security breach?",
+    "answer": "I would immediately isolate the affected service, assess the breach, communicate with stakeholders, and implement security measures to prevent future occurrences.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Security Management", "Incident Response"]
+  },
+  {
+    "id": "q62",
+    "question": "How do you ensure the reliability of embedded systems in harsh environments?",
+    "answer": "I use robust hardware design, thorough testing, and redundancy to ensure the reliability of embedded systems in harsh environments.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Hardware Design", "Testing"]
+  },
+  {
+    "id": "q63",
+    "question": "How do you handle a situation where a cloud service is experiencing performance degradation?",
+    "answer": "I would analyze the root cause, optimize configurations, and use performance monitoring tools to address the degradation.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Performance Optimization", "Monitoring"]
+  },
+  {
+    "id": "q64",
+    "question": "How do you ensure the scalability of a web application?",
+    "answer": "I design the application with modular architecture, use efficient algorithms, and implement load balancing to ensure scalability.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Scalability", "Architecture Design"]
+  },
+  {
+    "id": "q65",
+    "question": "How do you handle a situation where a CI/CD pipeline is not deploying code changes properly?",
+    "answer": "I would analyze the pipeline, identify deployment issues, and implement fixes to ensure proper deployment.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Deployment", "Problem Solving"]
+  },
+  {
+    "id": "q66",
+    "question": "How do you handle a situation where a machine learning model is underfitting?",
+    "answer": "I use techniques like increasing model complexity, adding more features, and tuning hyperparameters to handle underfitting.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Complexity", "Feature Engineering"]
+  },
+  {
+    "id": "q67",
+    "question": "How do you ensure the maintainability of a software project with multiple contributors?",
+    "answer": "I use version control, enforce coding standards, and conduct regular code reviews to ensure maintainability.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Version Control", "Code Reviews"]
+  },
+  {
+    "id": "q68",
+    "question": "How do you handle a situation where a critical service is experiencing frequent crashes?",
+    "answer": "I would analyze logs, identify the root cause, and implement fixes to stabilize the service.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Crash Analysis", "Problem Solving"]
+  },
+  {
+    "id": "q69",
+    "question": "How do you ensure the reliability of embedded systems with limited resources?",
+    "answer": "I use efficient coding practices, optimize hardware design, and implement robust error handling to ensure reliability.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Resource Optimization", "Error Handling"]
+  },
+  {
+    "id": "q70",
+    "question": "How do you handle a situation where a cloud service is experiencing high traffic?",
+    "answer": "I would use load balancing, optimize configurations, and implement caching to handle high traffic.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Traffic Management", "Load Balancing"]
+  },
+  {
+    "id": "q71",
+    "question": "How do you ensure the performance of a web application with complex interactions?",
+    "answer": "I use performance testing, optimize code and database queries, and implement caching to ensure performance.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Performance Testing", "Optimization"]
+  },
+  {
+    "id": "q72",
+    "question": "How do you handle a situation where a deployment pipeline is not integrating code changes properly?",
+    "answer": "I would analyze the pipeline, identify integration issues, and implement fixes to ensure proper integration.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Integration", "Problem Solving"]
+  },
+  {
+    "id": "q73",
+    "question": "How do you handle a situation where a machine learning model is overfitting?",
+    "answer": "I use techniques like regularization, cross-validation, and pruning to handle overfitting and improve model generalization.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Generalization", "Regularization"]
+  },
+  {
+    "id": "q74",
+    "question": "How do you ensure the maintainability of a software project?",
+    "answer": "I use modular design, thorough documentation, and regular refactoring to ensure the maintainability of a software project.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Maintainability", "Modular Design"]
+  },
+  {
+    "id": "q75",
+    "question": "How do you handle a situation where a critical service is experiencing high latency?",
+    "answer": "I would analyze the root cause, optimize configurations, and use caching or load balancing to reduce latency.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Latency Optimization", "Load Balancing"]
+  },
+  {
+    "id": "q76",
+    "question": "How do you ensure the reliability of communication protocols in embedded systems?",
+    "answer": "I use robust error handling, thorough testing, and redundancy to ensure the reliability of communication protocols.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Communication Protocols", "Error Handling"]
+  },
+  {
+    "id": "q77",
+    "question": "How do you handle a situation where a cloud service is experiencing downtime?",
+    "answer": "I would communicate with the provider, use redundancy and failover mechanisms, and implement a temporary solution to minimize impact.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Downtime Management", "Redundancy"]
+  },
+  {
+    "id": "q78",
+    "question": "How do you ensure the performance of a web application under high load?",
+    "answer": "I use load testing, optimize code and database queries, and implement caching to ensure performance under high load.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Load Testing", "Performance Optimization"]
+  },
+  {
+    "id": "q79",
+    "question": "How do you handle a situation where a deployment pipeline is frequently failing?",
+    "answer": "I would analyze the failures, identify common issues, and implement fixes to stabilize the deployment pipeline.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["Pipeline Stability", "Problem Solving"]
+  },
+  {
+    "id": "q80",
+    "question": "How do you handle a situation where a machine learning model is not performing as expected?",
+    "answer": "I would analyze the data, tune hyperparameters, and experiment with different algorithms to improve model performance.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Tuning", "Algorithm Selection"]
+  },
+  {
+    "id": "q81",
+    "question": "How do you handle a situation where a critical service is experiencing a DDoS attack?",
+    "answer": "I would implement rate limiting, use a content delivery network (CDN), and work with the network team to mitigate the attack.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["DDoS Mitigation", "Network Security"]
+  },
+  {
+    "id": "q82",
+    "question": "How do you ensure the reliability of embedded systems in mission-critical applications?",
+    "answer": "I use rigorous testing, redundancy, and fail-safe mechanisms to ensure the reliability of embedded systems in mission-critical applications.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Reliability", "Fail-Safe Mechanisms"]
+  },
+  {
+    "id": "q83",
+    "question": "How do you handle a situation where a cloud service is experiencing data loss?",
+    "answer": "I would use backup and recovery solutions, ensure data redundancy, and implement preventive measures to avoid future data loss.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Data Recovery", "Redundancy"]
+  },
+  {
+    "id": "q84",
+    "question": "How do you ensure the security of a web application?",
+    "answer": "I implement secure coding practices, use encryption, and regularly perform security audits to ensure the security of a web application.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Web Security", "Encryption"]
+  },
+  {
+    "id": "q85",
+    "question": "How do you handle a situation where a CI/CD pipeline is not triggering builds properly?",
+    "answer": "I would analyze the pipeline, identify triggering issues, and implement fixes to ensure proper build triggering.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Builds", "Problem Solving"]
+  },
+  {
+    "id": "q86",
+    "question": "How do you handle a situation where a machine learning model is biased?",
+    "answer": "I would analyze the data for bias, use techniques like re-sampling or algorithm adjustments, and ensure diverse training data to reduce bias.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Bias Mitigation", "Data Analysis"]
+  },
+  {
+    "id": "q87",
+    "question": "How do you ensure the maintainability of a software project with frequent updates?",
+    "answer": "I use version control, enforce coding standards, and conduct regular code reviews to ensure maintainability.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Version Control", "Code Reviews"]
+  },
+  {
+    "id": "q88",
+    "question": "How do you handle a situation where a critical service is experiencing frequent restarts?",
+    "answer": "I would analyze logs, identify the root cause, and implement fixes to stabilize the service.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Service Stability", "Problem Solving"]
+  },
+  {
+    "id": "q89",
+    "question": "How do you ensure the reliability of embedded systems with real-time constraints?",
+    "answer": "I use real-time operating systems, prioritize tasks, and optimize code to meet real-time constraints.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Real-Time Systems", "Task Management"]
+  },
+  {
+    "id": "q90",
+    "question": "How do you handle a situation where a cloud service is experiencing configuration issues?",
+    "answer": "I would analyze the configuration, identify issues, and implement fixes to ensure proper configuration.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Configuration Management", "Problem Solving"]
+  },
+  {
+    "id": "q91",
+    "question": "How do you ensure the performance of a web application with high user concurrency?",
+    "answer": "I use load testing, optimize code and database queries, and implement caching to ensure performance with high user concurrency.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Load Testing", "Performance Optimization"]
+  },
+  {
+    "id": "q92",
+    "question": "How do you handle a situation where a deployment pipeline is not deploying code changes properly?",
+    "answer": "I would analyze the pipeline, identify deployment issues, and implement fixes to ensure proper deployment.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Deployment", "Problem Solving"]
+  },
+  {
+    "id": "q93",
+    "question": "How do you handle a situation where a machine learning model is underfitting?",
+    "answer": "I use techniques like increasing model complexity, adding more features, and tuning hyperparameters to handle underfitting.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Complexity", "Feature Engineering"]
+  },
+  {
+    "id": "q94",
+    "question": "How do you ensure the maintainability of a software project with multiple contributors?",
+    "answer": "I use version control, enforce coding standards, and conduct regular code reviews to ensure maintainability.",
+    "type": "situational",
+    "domain": "software",
+    "experience_level": "senior-level",
+    "skills": ["Version Control", "Code Reviews"]
+  },
+  {
+    "id": "q95",
+    "question": "How do you handle a situation where a critical service is experiencing frequent crashes?",
+    "answer": "I would analyze logs, identify the root cause, and implement fixes to stabilize the service.",
+    "type": "situational",
+    "domain": "SRE",
+    "experience_level": "senior-level",
+    "skills": ["Crash Analysis", "Problem Solving"]
+  },
+  {
+    "id": "q96",
+    "question": "How do you ensure the reliability of embedded systems with limited resources?",
+    "answer": "I use efficient coding practices, optimize hardware design, and implement robust error handling to ensure reliability.",
+    "type": "situational",
+    "domain": "embedded",
+    "experience_level": "senior-level",
+    "skills": ["Resource Optimization", "Error Handling"]
+  },
+  {
+    "id": "q97",
+    "question": "How do you handle a situation where a cloud service is experiencing high traffic?",
+    "answer": "I would use load balancing, optimize configurations, and implement caching to handle high traffic.",
+    "type": "situational",
+    "domain": "cloud",
+    "experience_level": "senior-level",
+    "skills": ["Traffic Management", "Load Balancing"]
+  },
+  {
+    "id": "q98",
+    "question": "How do you ensure the performance of a web application with complex interactions?",
+    "answer": "I use performance testing, optimize code and database queries, and implement caching to ensure performance.",
+    "type": "situational",
+    "domain": "full-stack",
+    "experience_level": "senior-level",
+    "skills": ["Performance Testing", "Optimization"]
+  },
+  {
+    "id": "q99",
+    "question": "How do you handle a situation where a deployment pipeline is not integrating code changes properly?",
+    "answer": "I would analyze the pipeline, identify integration issues, and implement fixes to ensure proper integration.",
+    "type": "situational",
+    "domain": "DevOps",
+    "experience_level": "senior-level",
+    "skills": ["CI/CD Integration", "Problem Solving"]
+  },
+  {
+    "id": "q100",
+    "question": "How do you handle a situation where a machine learning model is overfitting?",
+    "answer": "I use techniques like regularization, cross-validation, and pruning to handle overfitting and improve model generalization.",
+    "type": "situational",
+    "domain": "machine learning",
+    "experience_level": "senior-level",
+    "skills": ["Model Generalization", "Regularization"]
+  }
+]

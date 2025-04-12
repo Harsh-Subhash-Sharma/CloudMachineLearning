@@ -1,0 +1,17 @@
+boto3
+chalice
+faster-whisper
+gradio==4.44.1
+gradio_client==0.12.0
+langcodes
+librosa
+numpy
+openai
+pydub
+python-docx
+python-dotenv
+PyPDF2
+scipy
+torch
+torchaudio
+transformers

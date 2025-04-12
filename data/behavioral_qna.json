@@ -1,0 +1,802 @@
+[
+    {
+        "id": "q1",
+        "question": "Can you describe a time when you had to lead a team through a difficult situation?",
+        "answer": "I once led a team through a major project setback by maintaining open communication, reassessing our strategy, and motivating the team to stay focused on our goals. We successfully overcame the challenges and delivered the project on time.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q2",
+        "question": "How do you approach problem-solving when faced with a complex issue?",
+        "answer": "I break down the issue into smaller, manageable parts, gather relevant information, and collaborate with team members to brainstorm solutions. I then evaluate the options and implement the most effective solution.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q3",
+        "question": "Describe a situation where you had to manage a conflict within your team.",
+        "answer": "I addressed the conflict by facilitating a discussion between the parties involved, encouraging open communication, and finding common ground. I also implemented strategies to prevent similar conflicts in the future.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q4",
+        "question": "How do you ensure that your team stays motivated during challenging projects?",
+        "answer": "I keep the team motivated by setting clear goals, providing regular feedback, recognizing achievements, and fostering a positive work environment. I also encourage team collaboration and support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q5",
+        "question": "Can you give an example of a time when you had to adapt to a significant change at work?",
+        "answer": "When our company underwent a major restructuring, I adapted by quickly learning new processes, supporting my team through the transition, and maintaining a positive attitude. This helped us navigate the change smoothly.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q6",
+        "question": "How do you handle tight deadlines and pressure?",
+        "answer": "I manage tight deadlines by prioritizing tasks, staying organized, and maintaining focus. I also communicate effectively with my team to ensure everyone is aligned and working efficiently.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q7",
+        "question": "Describe a time when you had to make a difficult decision.",
+        "answer": "I once had to decide whether to continue a project that was facing significant challenges. After evaluating the risks and benefits, I chose to pivot our strategy, which ultimately led to a successful outcome.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q8",
+        "question": "How do you handle feedback, both positive and negative?",
+        "answer": "I view feedback as an opportunity for growth. I listen carefully, ask clarifying questions, and reflect on the feedback to make necessary improvements. I also express gratitude for the insights provided.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q9",
+        "question": "Can you describe a time when you had to collaborate with a difficult colleague?",
+        "answer": "I worked with a challenging colleague by focusing on common goals, maintaining professionalism, and finding ways to leverage their strengths. This helped us achieve successful collaboration despite differences.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q10",
+        "question": "How do you prioritize your tasks when you have multiple deadlines?",
+        "answer": "I prioritize tasks based on their urgency and impact, create a detailed schedule, and use project management tools to track progress. I also communicate with stakeholders to manage expectations.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q11",
+        "question": "Describe a time when you had to learn a new skill quickly.",
+        "answer": "I had to learn a new software tool for a project. I dedicated time to online tutorials, sought advice from colleagues, and practiced regularly. This enabled me to become proficient in a short period.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q12",
+        "question": "How do you handle disagreements with your manager?",
+        "answer": "I address disagreements by discussing my perspective respectfully, listening to my manager's viewpoint, and finding a compromise. I focus on maintaining a positive working relationship and achieving common goals.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q13",
+        "question": "Can you give an example of a time when you exceeded expectations at work?",
+        "answer": "I exceeded expectations by delivering a project ahead of schedule and under budget. I achieved this by optimizing resources, streamlining processes, and maintaining clear communication with the team.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q14",
+        "question": "How do you handle situations where you need to persuade others to see your point of view?",
+        "answer": "I present my viewpoint clearly, backed by data and evidence. I listen to others' perspectives, address their concerns, and find common ground to build consensus.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q15",
+        "question": "Describe a time when you had to manage a project with limited resources.",
+        "answer": "I managed a project with limited resources by prioritizing essential tasks, optimizing resource allocation, and finding creative solutions to overcome constraints. This ensured the project's success despite challenges.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q16",
+        "question": "How do you stay organized and manage your time effectively?",
+        "answer": "I use tools like calendars and task lists to stay organized. I prioritize tasks, set realistic deadlines, and regularly review my progress to ensure I stay on track.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q17",
+        "question": "Can you describe a time when you had to handle a high-pressure situation?",
+        "answer": "I handled a high-pressure situation by staying calm, focusing on the task at hand, and communicating effectively with my team. We worked together to resolve the issue and meet our deadline.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q18",
+        "question": "How do you handle conflicting priorities in a project?",
+        "answer": "I prioritize tasks based on their impact and urgency, communicate with stakeholders to clarify expectations, and use project management tools to track progress. If necessary, I escalate conflicts to higher management for resolution.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q19",
+        "question": "Describe a time when you had to take initiative to solve a problem.",
+        "answer": "I took initiative to solve a problem by identifying the issue, researching potential solutions, and implementing a plan of action. This proactive approach led to a successful resolution.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q20",
+        "question": "How do you handle situations where you need to give constructive feedback?",
+        "answer": "I give constructive feedback by focusing on specific behaviors, providing actionable suggestions, and maintaining a positive tone. I also encourage open dialogue and support for improvement.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q21",
+        "question": "Can you describe a time when you had to manage a remote team?",
+        "answer": "I managed a remote team by setting clear expectations, maintaining regular communication through video calls and messaging apps, and using project management tools to track progress. This ensured everyone stayed aligned and productive.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q22",
+        "question": "How do you handle a situation where a project is falling behind schedule?",
+        "answer": "I assess the reasons for the delay, reallocate resources if necessary, and communicate with the team to develop a recovery plan. I also keep stakeholders informed and adjust timelines as needed.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q23",
+        "question": "Describe a time when you had to implement a new process or system.",
+        "answer": "I implemented a new project management system by first understanding the team's needs, selecting the appropriate tool, and providing training. I also gathered feedback and made adjustments to ensure smooth adoption.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q24",
+        "question": "How do you handle a situation where you need to deliver bad news to your team?",
+        "answer": "I deliver bad news with honesty and empathy, providing clear explanations and offering support. I also focus on finding solutions and maintaining team morale.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q25",
+        "question": "Can you give an example of a time when you had to manage a budget for a project?",
+        "answer": "I managed a project budget by closely monitoring expenses, identifying cost-saving opportunities, and regularly updating stakeholders on the financial status. This ensured we stayed within budget while achieving project goals.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q26",
+        "question": "How do you handle a situation where a team member is not meeting expectations?",
+        "answer": "I address the issue by having a one-on-one conversation to understand the root cause, providing constructive feedback, and offering support or additional training. I also set clear expectations and follow up regularly.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q27",
+        "question": "Describe a time when you had to manage a cross-functional team.",
+        "answer": "I managed a cross-functional team by fostering open communication, ensuring everyone understood their roles and responsibilities, and facilitating collaboration. This helped us leverage diverse skills and achieve our project objectives.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q28",
+        "question": "How do you handle a situation where you need to make a decision with incomplete information?",
+        "answer": "I gather as much relevant information as possible, consult with knowledgeable colleagues, and weigh the potential risks and benefits. I then make the best decision based on the available data and remain flexible to adjust if new information arises.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q29",
+        "question": "Can you describe a time when you had to manage a project with a tight budget?",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q30",
+        "question": "How do you handle a situation where you need to motivate a disengaged team member?",
+        "answer": "I engage with the team member to understand their concerns, provide support, and set clear goals. I also recognize their contributions and create opportunities for them to take on meaningful tasks that align with their interests.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q31",
+        "question": "Describe a time when you had to manage a project with a tight deadline.",
+        "answer": "I managed a project with a tight deadline by creating a detailed plan, prioritizing tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline successfully.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q32",
+        "question": "How do you handle a situation where you need to manage multiple projects simultaneously?",
+        "answer": "I prioritize projects based on their urgency and impact, create a detailed schedule, and use project management tools to track progress. I also delegate tasks effectively and maintain regular communication with all teams involved.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q33",
+        "question": "Can you describe a time when you had to handle a crisis at work?",
+        "answer": "I handled a crisis by staying calm, assessing the situation, and developing a clear action plan. I communicated effectively with the team and stakeholders, ensuring everyone was informed and aligned. This helped us resolve the crisis efficiently.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q34",
+        "question": "How do you handle a situation where you need to implement a change that is met with resistance?",
+        "answer": "I address resistance by clearly communicating the reasons for the change, involving the team in the process, and providing support and training. I also listen to concerns and address them to ensure a smooth transition.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q35",
+        "question": "Describe a time when you had to manage a project with a diverse team.",
+        "answer": "I managed a diverse team by fostering an inclusive environment, encouraging open communication, and leveraging the unique strengths of each team member. This helped us achieve our project goals while promoting collaboration and innovation.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q36",
+        "question": "How do you handle a situation where you need to deliver a project with limited resources?",
+        "answer": "I prioritize tasks, optimize resource allocation, and find creative solutions to overcome constraints. I also communicate with stakeholders to manage expectations and ensure we deliver the project successfully within the limitations.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q37",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q38",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q39",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q40",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q41",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q42",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q43",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q44",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q45",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q46",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q47",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q48",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q49",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q50",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q51",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q52",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q53",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q54",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q55",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q56",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q57",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q58",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q59",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q60",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q61",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q62",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q63",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q64",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q65",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q66",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q67",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q68",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q69",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q70",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q71",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q72",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q73",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q74",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q75",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q76",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q77",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q78",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q79",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q80",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q81",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q82",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q83",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q84",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q85",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q86",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q87",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q88",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q89",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q90",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q91",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q92",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q93",
+        "question": "Can you describe a time when you had to manage a project with a high level of uncertainty?",
+        "answer": "I managed a project with high uncertainty by conducting thorough risk assessments, developing contingency plans, and maintaining flexibility. I also kept stakeholders informed and adjusted our approach as new information became available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q94",
+        "question": "How do you handle a situation where you need to build consensus among team members with differing opinions?",
+        "answer": "I facilitate open discussions, encourage active listening, and find common ground. I also focus on the team's shared goals and work towards a solution that everyone can support.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q95",
+        "question": "Describe a time when you had to manage a project with a tight timeline and high stakes.",
+        "answer": "I managed a high-stakes project with a tight timeline by creating a detailed plan, prioritizing critical tasks, and ensuring clear communication with the team. We worked efficiently and collaboratively to meet the deadline and achieve success.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q96",
+        "question": "How do you handle a situation where you need to manage a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q97",
+        "question": "Can you describe a time when you had to manage a project with a high level of complexity?",
+        "answer": "I managed a complex project by breaking it down into smaller tasks, creating a detailed plan, and ensuring clear communication with the team. We collaborated effectively to address challenges and successfully completed the project.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q98",
+        "question": "How do you handle a situation where you need to manage a project with a high degree of risk?",
+        "answer": "I conduct thorough risk assessments, develop contingency plans, and maintain flexibility. I also keep stakeholders informed and adjust our approach as new information becomes available.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q99",
+        "question": "Describe a time when you had to manage a project with a tight budget and limited resources.",
+        "answer": "I managed a project with a tight budget by prioritizing essential tasks, negotiating with vendors for better rates, and finding cost-effective solutions. This allowed us to complete the project successfully within the budget constraints.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    },
+    {
+        "id": "q100",
+        "question": "How do you handle a situation where you need to deliver a project with conflicting stakeholder interests?",
+        "answer": "I address conflicting interests by facilitating open communication, understanding each stakeholder's priorities, and finding a balanced solution that aligns with the project's overall goals. I also keep stakeholders informed and involved throughout the process.",
+        "type": "behavioral",
+        "domain": "general",
+        "experience_level": "senior-level"
+    }
+]
