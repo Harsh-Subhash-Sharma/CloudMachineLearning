@@ -13,21 +13,36 @@ table = dynamodb.Table("InterviewSessions")
 def save_session(resume_text, jd_text, skills, questions, answers, feedback, language):
     session_id = str(uuid.uuid4())
 
-    question_texts = [q["question"] for q in questions]
+    question_texts = []
 
-    data = {
-        "session_id": session_id,
-        "resume_text": resume_text,
-        "jd_text": jd_text,
-        "skills": skills,
-        "questions": question_texts,
-        "answers": answers,
-        "feedback": feedback,
-        "language": language  # ✅ Store selected language
-    }
+    for q in questions:
+        if isinstance(q, str):
+            question_texts.append(q)
+        elif isinstance(q, dict) and "question" in q:
+            question_texts.append(q["question"])
+        else:
+            question_texts.append(str(q))  # fallback if structure is unknown
 
-    table.put_item(Item=data)
-    return session_id
+    try:
+        data = {
+            "session_id": session_id,
+            "resume_text": resume_text,
+            "jd_text": jd_text,
+            "skills": skills,
+            "questions": question_texts,
+            "answers": answers,
+            "feedback": feedback,
+            "language": language
+        }
+
+        table.put_item(Item=data)
+        return session_id
+
+    except Exception as e:
+        print(f"❌ DynamoDB Save Error: {e}")
+        return None
+
+
 
 # ✅ Retrieve session by session_id
 def get_session(session_id):
